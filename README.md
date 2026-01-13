@@ -15,7 +15,7 @@ A cross-population WM atlas, created using both adult and neonatal imaging data,
 
 - White Matter Analysis (WMA) Python library: https://github.com/SlicerDMRI/whitematteranalysis
 - 3D Slicer: https://download.slicer.org/
-- NABA-Atlas data files (large atlas files are excluded from git; Zenodo link [TBD](https://doi.org/10.5281/zenodo.18227691))
+- NABA-Atlas data files (large atlas files are excluded from git; [Atlas Zenodo link](https://doi.org/10.5281/zenodo.18227691))
 
 ## Parcellation usage
 
