@@ -15,7 +15,7 @@ A cross-population WM atlas, created using both adult and neonatal imaging data,
 
 - White Matter Analysis (WMA) Python library: https://github.com/SlicerDMRI/whitematteranalysis
 - 3D Slicer: https://download.slicer.org/
-- NABA-Atlas data files (large atlas files are excluded from git; Zenodo link TBD)
+- NABA-Atlas data files (large atlas files are excluded from git; Zenodo link [TBD](https://doi.org/10.5281/zenodo.18227691))
 
 ## Parcellation usage
 
@@ -61,4 +61,4 @@ When `-d 1` is set:
 
 ## How to cite
 
-TBD
+Zhang, W., Li, Y., Zheng, R., Sochen, N. A., Chen, Y., Zekelman, L. R., ... & Zhang, F. (2025). Cross-Population White Matter Atlas Creation for Concurrent Mapping of Brain Connections in Neonates and Adults with Diffusion MRI Tractography. arXiv preprint arXiv:2512.20370.
